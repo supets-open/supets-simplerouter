@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Supets-Router</string>
+    <string name="app_name">router</string>
+    <string name="model1">标准模式</string>
+    <string name="model2">单任务模式</string>
+    <string name="model3">单例模式</string>
+    <string name="model4">栈顶模式</string>
+    <string name="model5">重构模式</string>
+    <string name="test">android 模式导航</string>
+    <string name="test2">我要到supets模块的joinus页面!</string>
 </resources>
